@@ -1,0 +1,16 @@
+.bg-info {
+    background-color: #ffc382!important;
+}
+
+.navbar-dark .navbar-brand {
+    color: black;
+}
+
+.btn-outline-light {
+    color: black;
+    border-color: black;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: #73481a;
+}
